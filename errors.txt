@@ -1,0 +1,4 @@
+*.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+To resolve it use javac -Xlint:unchecked filename.java and see where the problem is occuring.
