@@ -1,0 +1,3 @@
+Motivation Behind Generics : Typically you want a container to hold multiple types of objects, but typically you only put one type of objects at a time. We'd like to use an unspecified type, which can be decided later.
+
+

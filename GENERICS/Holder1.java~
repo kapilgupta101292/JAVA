@@ -1,0 +1,4 @@
+class Automobile{}
+public class Holder1{
+	private Automobile a;
+	public 
